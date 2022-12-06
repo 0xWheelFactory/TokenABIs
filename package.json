@@ -1,0 +1,27 @@
+{
+  "name": "token-abis",
+  "version": "1.0.0",
+  "description": "A package contains the common token abi",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xWheelFactory/TokenABIs.git"
+  },
+  "keywords": [
+    "abi",
+    "erc721",
+    "erc20",
+    "erc1155",
+    "ethereum",
+    "token",
+    "web3"
+  ],
+  "author": "SpaceStation09 <space_station09@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xWheelFactory/TokenABIs/issues"
+  },
+  "homepage": "https://github.com/0xWheelFactory/TokenABIs#readme"
+}
